@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>ABOUT CHATTERBOTS</pattern>
+	<template>my name is chidimma, how are you?</template>
+</category>
+
+<category>
+	<pattern>I AM FINE</pattern>
+	<template>Glad to hear it. Where are you charting from?</template>
+</category>
+
+<category>
+	<pattern>COME</pattern>
+	<template>waoh! how is the weather over there?</template>
+</category>
+
+</aiml>
